@@ -20,13 +20,13 @@ Use the schema you built to answer the following questions by writing T-SQL:
 
 1. How many academies have Standard 7 pupils as of July 1, 2014?
 2. Out of the Standard 7 pupils enrolled as of July 1, 2014, what percentage has a `+` vs `-` status?
-<!-- How many of the Standard 7 enrollees present as of February 1, 2014 are no longer present as of July 1 2014 ? -->
 3. How many of the Standard 7 pupils joined in February 1, 2014?
-<!-- How many unique Standard 7 pupil IDs do we have? -->
 4. How many unique Standard 7 pupil IDs do we have in Quarter 1 of 2014?
-<!-- What percentage of Standard 7 enrollees have had their name updated at least once between January and July 2014? What is the count? -->
 5. What percentage of Standard 7 enrollees share an exact name with another Standard 7 enrollee at the same academy? What is the count?
 6. With the information provided and your findings above, what would be your top three recommendations to Bridge to help ensure that pupil ID's can be trusted as the unique identifier to each and every pupil?
+<!-- How many of the Standard 7 enrollees present as of February 1, 2014 are no longer present as of July 1 2014 ? -->
+<!-- How many unique Standard 7 pupil IDs do we have? -->
+<!-- What percentage of Standard 7 enrollees have had their name updated at least once between January and July 2014? What is the count? -->
 
 ## Additional Requirements
 
