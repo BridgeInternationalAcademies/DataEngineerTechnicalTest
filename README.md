@@ -8,11 +8,11 @@ To cleanse data in Excel format and to extract, transform and load (ETL) it into
 
 ## Build a Schema
 
-Using the data in the [Excel spreadsheet](Data.xslx), to build a schema that will make it possible to slice and dice the attached data. Create hierarchies in your schema (where possible) to aid with reporting and drilling through the data.
+Using the data in the [Excel spreadsheet](Data.xslx), to build a schema that will make it possible to slice and dice the attached data. Create hierarchies in your schema (where possible) to aid with reporting and drilling through the data. Use any SQL technology in the Microsoft stack to perform the ETL and explain your reasoning.
 
 ## Cleanse Data
 
-The data has numerous issues in it that will need to be dealt with.
+The data has numerous issues in it that will need to be dealt with. Decide on a strategy for cleansing the data and explain your reasoning.
 
 ## Answer Questions
 
@@ -30,8 +30,8 @@ Use the schema you built to answer the following questions by writing T-SQL:
 
 ## Additional Requirements
 
-- Write a short ReadMe about your code, your design or any assumptions you made.
+- Write a short ReadMe about the steps you took and the reasoning behind those decisions. Also talk about any assumptions you made and how you could improve the process or next steps you could have taken if you had more time.
 - Write production quality code.
-- Attach all of your T-SQL scripts.
+- Send us all of your T-SQL scripts and any other files in a zip file.
 
 If you have any problems please feel free to contact us.
