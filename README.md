@@ -8,7 +8,7 @@ To cleanse data in Excel format and to extract, transform and load (ETL) it into
 
 ## Build a Schema
 
-Using the data in the [Excel spreadsheet](Data.xslx), to build a schema that will make it possible to slice and dice the attached data. Create hierarchies in your schema (where possible) to aid with reporting and drilling through the data. Use any SQL technology in the Microsoft stack to perform the ETL and explain your reasoning.
+Using the data in the [Excel spreadsheet](Data.xlsx), to build a schema that will make it possible to slice and dice the attached data. Create hierarchies in your schema (where possible) to aid with reporting and drilling through the data. Use any SQL technology in the Microsoft stack to perform the ETL and explain your reasoning.
 
 ## Cleanse Data
 
